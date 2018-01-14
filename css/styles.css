@@ -233,6 +233,10 @@ img.firma{
 a img.tema_img{
 	max-height: 35vh;
 	max-width: 100%;
+	position:relative;
+	top: 1em;
+	left: 5em;
+	opacity: .8;
 }
 .box-right{
 	display: flex;
